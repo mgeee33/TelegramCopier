@@ -19,6 +19,6 @@ No. Only groups and megagroups(groups that have a t.me/xxxx link)
 # Will software be updated?
 Surely if i get some donate to improve :)
 
-# Donations
-BTC : 1MpVyusWXhhXQtV8nzWQP8ZZjr1dHFVA5j
-USDT(ERC20) : 0xf091e92302700e5a0f51c23bd0f44bbfa3a06409
+# Donations 
+BTC : 1MpVyusWXhhXQtV8nzWQP8ZZjr1dHFVA5j  
+USDT(ERC20) : 0xf091e92302700e5a0f51c23bd0f44bbfa3a06409  
