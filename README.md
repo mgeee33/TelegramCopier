@@ -15,7 +15,7 @@ TelegramCopier has a full support on Socks5. You can set-up your own proxy serve
 "aktif" => proxy activation bool  
 "forcesms" => send sms instead of telegram message.  
 "uyelerin_cekilecegi_grup" => group link which will users taken  
-"uyelerin_eklenecegi_grup" => group link whill will users be added  
+"uyelerin_eklenecegi_grup" => group link which will users be added  
 
 # What's the rate of adding users to another group?
 Unlimited. But generally an account can add 30-80 users daily. So you have to more than 30 accounts to add up to 1k users.
