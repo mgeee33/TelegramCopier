@@ -10,6 +10,13 @@ TelegramCopier includes multithreading, proxy support and forcing sms authentica
 # How can i setup my own proxy and which type of proxies are usable?
 TelegramCopier has a full support on Socks5. You can set-up your own proxy server on ubuntu. Check google with 'setting up socks server on ubuntu'
 
+# JSON variables
+"hesaplar" => account list array  
+"aktif" => proxy activation bool  
+"forcesms" => send sms instead of telegram message.
+"uyelerin_cekilecegi_grup" => group link which will users taken  
+"uyelerin_eklenecegi_grup" => group link whill will users be added  
+
 # What's the rate of adding users to another group?
 Unlimited. But generally an account can add 30-80 users daily. So you have to more than 30 accounts to add up to 1k users.
 
