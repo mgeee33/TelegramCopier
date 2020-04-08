@@ -1,0 +1,10 @@
+{
+  "hesaplar": [
+    {"forcesms": true,"api_id": "1231212","api_pass": "xxxxxxxx","phone": "+1212121212","proxy": {
+      "aktif" : true,"proxyip": "45.45.45.45","proxyport": 800,"proxyusername": "username","proxypassword": "ermvrs"
+    }},
+        {"forcesms": true,"api_id": "1231212","api_pass": "xxxxxxx","phone": "+112121212","proxy": {
+      "aktif" : false,"proxyip": "45.15.15.15","proxyport": 800,"proxyusername": "username","proxypassword": "ermvrs"
+    }}
+  ]
+}
