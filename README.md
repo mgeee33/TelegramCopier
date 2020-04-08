@@ -13,7 +13,7 @@ TelegramCopier has a full support on Socks5. You can set-up your own proxy serve
 # JSON variables
 "hesaplar" => account list array  
 "aktif" => proxy activation bool  
-"forcesms" => send sms instead of telegram message.
+"forcesms" => send sms instead of telegram message.  
 "uyelerin_cekilecegi_grup" => group link which will users taken  
 "uyelerin_eklenecegi_grup" => group link whill will users be added  
 
